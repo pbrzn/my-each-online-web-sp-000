@@ -11,4 +11,4 @@ def my_each(array)
   end
 end
 
-my_each(array){|i| print i}
+#my_each(){|i| print i}
